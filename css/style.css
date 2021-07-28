@@ -1,0 +1,18 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+header{
+    background-color: #264653;
+}
+
+.bg-btn{
+    background-color: #E76F51;
+}
+.text-color{
+    color: #E76F51;
+    font-size: 14px;
+}
+.img-1{
+    filter: grayscale(100%);
+}
