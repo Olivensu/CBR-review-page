@@ -16,3 +16,43 @@ header{
 .img-1{
     filter: grayscale(100%);
 }
+.btn{
+    border:1px solid #E76F51;
+    color: #E76F51;
+}
+.btn:hover{
+    background-color: #E76F51;
+    color: white;
+}
+.clients{
+    color: #E76F51;
+}
+.star{
+    color: #E76F51;
+}
+
+.name{
+    text-decoration: none;
+}
+.p1{
+    color: gray;
+}
+.faq-img{
+    height: 90%;
+}
+.footer{
+    background-color: #0B0D17;
+    margin-top: 130px;
+}
+.ul2{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.copyright{
+    color: white;
+    margin: 0;
+}
+.p3{
+    color: gray;
+}
